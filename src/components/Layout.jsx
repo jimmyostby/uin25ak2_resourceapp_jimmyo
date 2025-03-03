@@ -1,6 +1,6 @@
 export default function Layout(){
     return(
-        <body>
+        <>
    <header>
         <nav>
             <ul id="faneid">
@@ -12,7 +12,7 @@ export default function Layout(){
         <section id="whitebox"> 
         </section>
     </main>
+    </>
     
-</body>
     )
 }
