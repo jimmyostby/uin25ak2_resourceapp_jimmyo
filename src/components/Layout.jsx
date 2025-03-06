@@ -12,7 +12,7 @@ export default function Layout(){
         <section id="whitebox"> 
         </section>
     </main>
-    </>
+        </>
     
     )
 }
